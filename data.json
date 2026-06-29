@@ -10,6 +10,11 @@
      "user-id": "2B3F91D308F7100F",
       "discord-id": "1505252342566490363"
     }, 
+     {
+      "name": "VR12",
+      "user-id": "707651F6F1AD29F8",
+      "discord-id": "810014649490997311"
+    },
     {
       "name": "Inoxi",
       "user-id": "F7A8BE00DE85C3A2",
@@ -140,6 +145,7 @@
   "super-admins": [
     "kingofnetflix",
     "multifactor",
+   "VR12",
     "Jalaxy",
     "Quackers",
     "1x1x1x1VR12",
