@@ -6,7 +6,7 @@
   "motd": "You are using build {0}. This menu was created by Seralyth Software. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>Seralyth is not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with <3 by the community.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
   "admins": [
         {
-      "name": "Lexi2",
+      "name": "Lexi",
      "user-id": "2B3F91D308F7100F",
       "discord-id": "1505252342566490363"
     },
@@ -111,7 +111,7 @@
       "discord-id": "1432590680831688759"
     },
      {
-     "name": "Lexi",
+     "name": "Lexi1",
       "user-id": "A4E06D8CDF522CDA",
       "discord-id": "1361940738828664945"
     },
@@ -121,7 +121,7 @@
       "discord-id": "1389120168256340009"
     },
     {
-     "name": "Lexi1",
+     "name": "Lexi2",
       "user-id": "ECA1FAD872EC5EF3",
       "discord-id": "1361940738828664945"
     },
@@ -165,8 +165,8 @@
     "Alta",
     "Primby",
     "my fav gooner",
-    "Lexi",
     "Lexi1",
+    "Lexi2",
     "Beanzandriceee",
     "CubePanel"
   ],
