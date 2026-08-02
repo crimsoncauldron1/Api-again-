@@ -1,353 +1,81 @@
 {
-  "menu-version": "9.8.3",
+  "menu-version": "5.0.1",
   "min-version": "4.5.1",
   "min-console-version": "2.8.0",
-  "discord-invite": "https://discord.gg/aNv7fSycRy",
-  "motd": "You are using build {0}. This menu was created by Seralyth Software. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>Seralyth is not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with love by the community.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
-    "admins": [
-    {
-      "name": "goldentrophy",
-      "user-id": "63ABF99FF52170E8"
-    },
-       {
-      "name": "Crimson-chan",
-      "user-id": "F641264BC1E4B9C9",
-    },
-    {
-      "name": "Cheemz",
-      "user-id": "BEEFE26BBBC9520B"
-    },
-    {
-      "name": "Twig",
-      "user-id": "F11FF07F6E028B08"
-    },
+  "discord-invite": "https://discord.gg/seralyth",
+  "motd": "You are using build {0}. This menu was created by Seralyth Software. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>Seralyth is not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with <3 by the community.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
+  "admins": [
     {
       "name": "industry",
-      "user-id": "4605B2A0900028E1"
+      "user-id": "4605B2A0900028E1",
+      "discord-id": "1340165954981724255"
     },
     {
-      "name": "Cha554",
-      "user-id": "E561B7176AAC1245"
+      "name": "Inoxi",
+      "user-id": "F7A8BE00DE85C3A2",
+      "discord-id": "786545961429499914"
     },
     {
-      "name": "industry",
-      "user-id": "796C78F8BCC03424"
+      "name": "testofficialxd",
+      "user-id": "A4AA347B576A5AAD",
+      "discord-id": "1244744453990776932"
     },
     {
-      "name": "libyyyreal",
-      "user-id": "2C7484982273DD6C"
+      "name": "Lerpy",
+      "user-id": "EBF4D7AE3CD9E4E6",
+      "discord-id": "792576219785986090"
     },
     {
-      "name": "64will64",
-      "user-id": "19FBD1D46C276C46"
-    },
-    {
-      "name": "goldentrophy",
-      "user-id": "BE5EBDCA38818858"
-    },
-    {
-      "name": "multifactor",
-      "user-id": "3EA37234BDD23625"
-    },
-    {
-      "name": "Smilk",
-      "user-id": "6D98F8C3F4C218C8"
-    },
-    {
-      "name": "Zern",
-      "user-id": "E728FA07F0469E4B"
-    },
-    {
-      "name": "gorillan0t",
-      "user-id": "187032148F1F1AD2"
-    },
-    {
-      "name": "Cha",
-      "user-id": "B47F400A56BF6350"
-    },
-    {
-      "name": "kingofnetflix",
-      "user-id": "5430EFABEC863B63"
+      "name": "sub2shibagt",
+      "user-id": "F3E8A56B1E35DACD",
+      "discord-id": "1364897848528736318"
     },
     {
       "name": "ZlothY",
-      "user-id": "C77E23EEDAECB338"
+      "user-id": "C77E23EEDAECB338",
+      "discord-id": "832552302027079710"
+    },
+    {
+      "name": "Twig",
+      "user-id": "F11FF07F6E028B08",
+      "discord-id": "738573735895892050"
+    },
+    {
+      "name": "gayfemboyfurrys",
+      "user-id": "2AC0E7FD1BE08E9F",
+      "discord-id": "1105433376661458964"
+    },
+    {
+      "name": "r5pc",
+      "user-id": "E561B7176AAC1245",
+      "discord-id": "1353949181571633173"
+    },
+    {
+      "name": "gayfemboyfurrys",
+      "user-id": "F641264BC1E4B9C9",
+      "discord-id": "1505252342566490363"
+    },
+    {
+      "name": "kingofnetflix",
+      "user-id": "DA8EA1E716AE562",
+      "discord-id": "1479765842131681350"
     }
   ],
   "super-admins": [
-    "goldentrophy",
-    "Twig",
-    "kingofnetflix"
+    "kingofnetflix",
+    "Twig"
   ],
   "april_fools": {
     "sex": false
   },
-  "patreon": [
-    {
-      "user-id": "756E9D7F99260BB8",
-      "discord-id": 1135621026357706800,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1135621026357706813/d9b101f9ddba3c2ff2c64b4db8df6e6b.png?size=1024"
-    },
-    {
-      "user-id": "BF4CB16FC2966221",
-      "discord-id": 1112502094918852600,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1112502094918852628/0f7e63ea245126521f8d3eab5347eccb.png?size=1024"
-    },
-    {
-      "user-id": "3774775",
-      "discord-id": 1275550139699695600,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1275550139699695627/ba5e6c900191d64c0bb1958968be2bc6.png?size=1024"
-    },
-    {
-      "user-id": "60A84CE446538FDF",
-      "discord-id": 1200874700683878400,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1200874700683878470/066753a80e5e27f7bf56256ba5d51028.png?size=1024"
-    },
-    {
-      "user-id": "C5A0E820BD007C79",
-      "discord-id": 927306771188559900,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/927306771188559894/3baf39bb18a980613d0c16fbbf4824f6.png?size=1024"
-    },
-    {
-      "user-id": "F42CE90636C6DE3C",
-      "discord-id": 779851488193151000,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/779851488193151016/a_8870d5d683a30c36b1f7bf3c7d60d898.gif?size=1024"
-    },
-    {
-      "user-id": "FB543FAC792F84C0",
-      "discord-id": 1332859829621887000,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1332859829621887102/69f5c1cdd11f31e639aa4ce6d3176734.png?size=1024"
-    },
-    {
-      "user-id": "5613B3BA0340EE5",
-      "discord-id": 1079090388071088300,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1079090388071088251/6574b49faa0e40ef2785465e0843cd84.png?size=1024"
-    },
-    {
-      "user-id": "3EA37234BDD23625",
-      "discord-id": 1392621350249824500,
-      "name": "Boyfriend",
-      "photo": "https://cdn.discordapp.com/avatars/1392621350249824486/8b067b4130be268d7deed61eba7feb1d.png?size=1024"
-    },
-    {
-      "user-id": "5B6C2B8BA719F211",
-      "discord-id": 988420242977984500,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/988420242977984522/12625fc53b83da2a0ffb2b851e5b7c8b.png?size=1024"
-    },
-    {
-      "user-id": "D6A352E6543328FE",
-      "discord-id": 1312296145208217900,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1312296145208217741/0e628d0ca823820d03d79205e7815342.png?size=1024"
-    },
-    {
-      "user-id": "4390FEB2E62D0D70",
-      "discord-id": 1156676608124526800,
-      "name": "Community Helper",
-      "photo": "https://cdn.discordapp.com/avatars/1156676608124526732/ab35f88303b9e339792d0c7fedc4856f.png?size=1024"
-    },
-    {
-      "user-id": "1FA48094DF463619",
-      "discord-id": 1242408689495707600,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1242408689495707678/a_0be2e2996367f949499f0b8797308963.gif?size=1024"
-    },
-    {
-      "user-id": "DE3BED8BF8600272",
-      "discord-id": 1057487817464352900,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1057487817464352869/25e09d6f5baa999883efe88988b43cd6.png?size=1024"
-    },
-    {
-      "user-id": "FFFFFFFFFFFF",
-      "discord-id": 1184620421178462500,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1184620421178462369/6cc6f05d0bda512a6ab404027e55b036.png?size=1024"
-    },
-    {
-      "user-id": "EE1BFDD3A4321F27",
-      "discord-id": 965833714661732400,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/965833714661732362/ff81c1f9106b45275f8eab6314b29821.png?size=1024"
-    },
-    {
-      "user-id": "4270D0F9D1C42512",
-      "discord-id": 1447301269315387600,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1447301269315387626/9f948d52930795b7c8dd7472c526abe3.png?size=1024"
-    },
-    {
-      "user-id": "FCC5349EB69AECC3",
-      "discord-id": 1123714048362553500,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1123714048362553524/a05ae99f762401b92e3b7d67f25bd04d.png?size=1024"
-    },
-    {
-      "user-id": "6D01B491E194639E",
-      "discord-id": 1370069909442138000,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1370069909442138123/fd07fa57af88e4fd1a96f6f4c3f12d42.png?size=1024"
-    },
-    {
-      "user-id": "AC70C45671D06039",
-      "discord-id": 958540356390117400,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/958540356390117377/6fc2b488abfdab2199f639c22f89852a.png?size=1024"
-    },
-    {
-      "user-id": "1AE219E3B56DD38",
-      "discord-id": 203218702089453570,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/203218702089453568/c1be431f75ccc4614979d2fe2aa00d1e.png?size=1024"
-    },
-    {
-      "user-id": "5DD041954EA30AD8",
-      "discord-id": 1191556321414226000,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1191556321414226015/46704a51ba2cec5d78d0ed4793d2b1da.png?size=1024"
-    },
-    {
-      "user-id": "73EBED1E76AE0C0B",
-      "discord-id": 1176221311442358300,
-      "name": "Supporter",
-      "photo": "https://cdn.discordapp.com/avatars/1176221311442358332/8a212640ed113792e13cad6d4cef5ace.png?size=1024"
-    },
-    {
-      "user-id": "235AB88A298B4943",
-      "discord-id": 950916167885795500,
-      "name": "Moderator",
-      "photo": "https://cdn.discordapp.com/avatars/950916167885795469/9a4d8c7e6a7433964f9cd9f5e4d9152b.png?size=1024"
-    },
-    {
-      "user-id": "6D98F8C3F4C218C8",
-      "discord-id": 1122611609408381000,
-      "name": "Staff Manager",
-      "photo": "https://cdn.discordapp.com/avatars/1122611609408381053/439bd06d3f44b2f8ab866eba8a089c25.png?size=1024"
-    },
-    {
-      "user-id": "B7D92C57D2A95D8E",
-      "discord-id": 1362774659451326500,
-      "name": "Community Helper",
-      "photo": "https://cdn.discordapp.com/avatars/1362774659451326526/6808771cc5cb1180553194a723ede8a9.png?size=1024"
-    },
-    {
-      "user-id": "545EFA45CCD681CB",
-      "discord-id": 1279914828215095300,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1279914828215095296/da1c4bdffd6ee319c71cecd0e43b6eb2.png?size=1024"
-    },
-    {
-      "user-id": "CANIDOTHIS",
-      "discord-id": 994116541559865500,
-      "name": "Community Helper",
-      "photo": "https://cdn.discordapp.com/avatars/994116541559865416/2089aa6199e3b618263f64200112ba81.png?size=1024"
-    },
-    {
-      "user-id": "A151FAB9C36926AE",
-      "discord-id": 1044029576201904100,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1044029576201904189/d9224c6d7c7963478523ce76360e9bb9.png?size=1024"
-    },
-    {
-      "user-id": "E9920F45110E25FD",
-      "discord-id": 1061110723901653100,
-      "name": "Moderator",
-      "photo": "https://cdn.discordapp.com/avatars/1061110723901653113/b51d9c8b9534876820234cbdce5b580a.png?size=1024"
-    },
-    {
-      "user-id": "6BDCB2CBAAFCCA66",
-      "discord-id": 1431660368798941200,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1431660368798941304/7ae843b7552d6a5ff8a349aebc64cd72.png?size=1024"
-    },
-    {
-      "user-id": "AAF544F5C9988423",
-      "discord-id": 1411300453953700000,
-      "name": "Supporter",
-      "photo": "https://cdn.discordapp.com/avatars/1411300453953700010/23293ceb4bbc2ed11079c53eddffb4e9.png?size=1024"
-    },
-    {
-      "user-id": "C9E1CBF460D6231F",
-      "discord-id": 1403568979318014000,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1403568979318013952/b97ff99c159151804bcb2baf1fd13b1b.png?size=1024"
-    },
-    {
-      "user-id": "126286DB700009C4",
-      "discord-id": 1394519577207116000,
-      "name": "Staff Manager",
-      "photo": "https://cdn.discordapp.com/avatars/1394519577207115977/313b4241b1377c6b73ac0fd6e39a39db.png?size=1024"
-    },
-    {
-      "user-id": "4D0F34404AC2549B",
-      "discord-id": 832977804748259300,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/832977804748259349/50585a183eb81adf7db9fc77c040f0cf.png?size=1024"
-    },
-    {
-      "user-id": "C9AF2DD888B7DAF9",
-      "discord-id": 1265877253817106400,
-      "name": "Community Helper",
-      "photo": "https://cdn.discordapp.com/avatars/1265877253817106442/2cad2bd5311f76eaa07d99403f0d05bb.png?size=1024"
-    },
-    {
-      "user-id": "960040BAB6EE2644",
-      "discord-id": 1278132746543169500,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1278132746543169630/fff3b9af0f043e57de43f5389e62b4e8.png?size=1024"
-    },
-    {
-      "user-id": "D005DA8EC50DFD13",
-      "discord-id": 1102126730220683300,
-      "name": "Community Helper",
-      "photo": "https://cdn.discordapp.com/avatars/1102126730220683324/40fe845fbe71b6b3b09141b9d059bffc.png?size=1024"
-    },
-    {
-      "user-id": "8F6A58D70F67BE9",
-      "discord-id": 1367849335156375600,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1367849335156375575/f43d9f6ce9df3c616cb9955fecf6ff64.png?size=1024"
-    },
-    {
-      "user-id": "F641264BC1E4B9C9",
-      "discord-id": 252548095244501000,
-      "name": "Menu Developer",
-      "photo": "https://cdn.discordapp.com/avatars/252548095244500994/f2715846f84c7965eb3331376b145403.png?size=1024"
-    },
-    {
-      "user-id": "9E12D76E3C7BD48E",
-      "discord-id": 1190373495939531000,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1190373495939530897/69e5bc1523c9f93a17fe2adf7b6f1b45.png?size=1024"
-    },
-    {
-      "user-id": "FF38C541F22553D",
-      "discord-id": 1462624079872786400,
-      "name": "Ultimate Tracker",
-      "photo": "https://cdn.discordapp.com/avatars/1462624079872786473/1608b6ae0fa0da6e4ebbe91ebed47a56.png?size=1024"
-    }
-  ],
-
   "detected-mods": [
-    "Kick Gun",
-    "Kick All",
-    "Lag Server",
-    "Crash Server",
-    "Freeze Server",
-    "Za Warudo <color=grey>[</color><color=green>T</color><color=grey>]</color>",
-    "Fling Shotgun"
-    
+    "Transparent Rig"
   ],
-  "poll": "Now there is a legal version of seralyth which one do u perfer Illegal or legal",
-  "option-a": "Illegal obviously",
-  "option-b": "Legal so I can get AA creator"
+  "poll": "Are you satisfied with the 5.0 update? (obviously not perfect but)",
+  "option-a": "Yes",
+  "option-b": "No",
+  "patreon": []
+
+    }
+  ]
 }
