@@ -15,6 +15,12 @@
       "user-id": "F7A8BE00DE85C3A2",
       "discord-id": "786545961429499914"
     },
+     {
+      "name": "the_un_lucky1",
+      "user-id": "13F9F507E1B3263",
+      "discord-id": "1169440354471268403"
+    },
+    
     {
       "name": "testofficialxd",
       "user-id": "A4AA347B576A5AAD",
@@ -65,6 +71,7 @@
     "kingofnetflix",
     "Twig"
   ],
+  "owners": ["crimson"]
   "april_fools": {
     "sex": false
   },
